@@ -9,7 +9,7 @@ In the folder "‏‏ZKP_HamiltonianCycle", there are python files of the implem
 
 The results of the experiments are in excel files that in the folder "Experiments' results".
 
-The repository also contains the final presentation and the project book.
+The repository also contains the final presentation, the project book, and the poster.
 
 # Usage
 
